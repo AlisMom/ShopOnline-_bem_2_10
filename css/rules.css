@@ -1,0 +1,23 @@
+.rules {
+    width: 1090px;
+    margin: 48px 0 63px;
+}
+
+.rules__text {
+    margin-top: 0;
+}
+
+.rules__care-text {
+    white-space: pre-line;
+    margin: 0;
+}
+
+.rules__title {
+    font-size: 22px;
+    margin: 0;
+}
+
+.rules__care-text_margin{
+    margin: 0;
+    white-space:normal;
+}

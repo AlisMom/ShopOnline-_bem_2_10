@@ -1,0 +1,11 @@
+.shoes__title {
+    font-size: 50px;
+}
+
+.shoes__list {
+    font-size: 16px;
+    line-height: 24px;
+    color: #525252;
+    padding-left: 20px;
+}
+
